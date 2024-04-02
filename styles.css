@@ -1,0 +1,30 @@
+.container1 {
+    display: flex !important;
+    justify-content: space-between;
+  }
+  
+  
+ .div {
+    flex: 1 !important;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 100px;
+    margin: 10px;
+}
+
+.div2 {
+    flex: 1 !important;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 200px;
+    margin: 10px;
+}
+
+.div3 {
+    flex: 1 !important;
+    height: 100px;
+    margin: 10px;
+}
+.body {
+    max-width: 375px;
+}
