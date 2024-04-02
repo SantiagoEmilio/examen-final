@@ -10,6 +10,7 @@
     border-radius: 5px;
     height: 100px;
     margin: 10px;
+    background-color: aqua;
 }
 
 .div2 {
@@ -18,12 +19,16 @@
     border-radius: 5px;
     height: 200px;
     margin: 10px;
+    background-color: aqua;
+
 }
 
 .div3 {
     flex: 1 !important;
     height: 100px;
     margin: 10px;
+    background-color: aqua;
+
 }
 .body {
     max-width: 375px;
